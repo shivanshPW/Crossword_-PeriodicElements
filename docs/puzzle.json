@@ -14,7 +14,7 @@
         "clue": "Mg",
         "answer": "MAGNESIUM",
         "direction": "across",
-        "row": 0,
+        "row": 1,
         "col": 5
       },
       {
@@ -22,7 +22,7 @@
         "clue": "Ca",
         "answer": "CALCIUM",
         "direction": "across",
-        "row": 2,
+        "row": 3,
         "col": 8
       },
       {
@@ -30,7 +30,7 @@
         "clue": "Ni",
         "answer": "NICKLE",
         "direction": "across",
-        "row": 4,
+        "row": 5,
         "col": 8
       },
       {
@@ -38,7 +38,7 @@
         "clue": "Fe",
         "answer": "IRON",
         "direction": "across",
-        "row": 5,
+        "row": 6,
         "col": 2
       },
       {
@@ -46,7 +46,7 @@
         "clue": "C",
         "answer": "CARBON",
         "direction": "across",
-        "row": 6,
+        "row": 7,
         "col": 5
       },
       {
@@ -54,7 +54,7 @@
         "clue": "Ne",
         "answer": "NEON",
         "direction": "across",
-        "row": 8,
+        "row": 9,
         "col": 1
       },
       {
@@ -62,7 +62,7 @@
         "clue": "Cu",
         "answer": "COPPER",
         "direction": "across",
-        "row": 10,
+        "row": 11,
         "col": 5
       },
       {
@@ -70,7 +70,7 @@
         "clue": "Pb",
         "answer": "LEAD",
         "direction": "across",
-        "row": 12,
+        "row": 13,
         "col": 3
       }
     ],
@@ -80,7 +80,7 @@
         "clue": "Si",
         "answer": "SILICON",
         "direction": "down",
-        "row": 0,
+        "row": 1,
         "col": 10
       },
       {
@@ -88,7 +88,7 @@
         "clue": "Zn",
         "answer": "ZINC",
         "direction": "down",
-        "row": 3,
+        "row": 4,
         "col": 5
       },
       {
@@ -96,7 +96,7 @@
         "clue": "Ag",
         "answer": "SILVER",
         "direction": "down",
-        "row": 4,
+        "row": 5,
         "col": 2
       },
       {
@@ -104,7 +104,7 @@
         "clue": "O",
         "answer": "OXYGEN",
         "direction": "down",
-        "row": 6,
+        "row": 7,
         "col": 9
       },
       {
@@ -112,7 +112,7 @@
         "clue": "Au",
         "answer": "GOLD",
         "direction": "down",
-        "row": 9,
+        "row": 10,
         "col": 6
       }
     ]
